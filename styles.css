@@ -1,0 +1,29 @@
+.container{
+    width: 960px;
+    background-color: beige;
+    margin: 0 auto;
+}
+
+.column{
+    display: flex;
+}
+
+.col{
+    padding: 2rem;
+}
+
+.col-1{
+    width: 100%;
+}
+
+.col-2{
+    width: 50%;
+}
+
+.col-3{
+    width: 30%;
+}
+
+.col-4{
+    width: 25%;
+}
